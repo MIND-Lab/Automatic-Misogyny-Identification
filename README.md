@@ -1,4 +1,4 @@
-# ami2018
+# Automatic Misogyny Identification at Evalita 2018 (AMI)
 Official repository of AMI, the shared task on Automatic Misogyny Identification at Evalita 2018
 
 Training and test sets available filling in this [form](https://docs.google.com/forms/d/1UAh0r7bb0Y84WMV9s5IoQAS_qoumHJGrLoht_qKGEsg/viewform); an email notification will be sent with instructions and details about how to download the data.
